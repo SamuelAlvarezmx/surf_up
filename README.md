@@ -29,9 +29,11 @@ After reviewing the temperature data for Oahu, it was brought to our attention t
 
 It is necessary to highlight that then 75% of the month days have lower than our consideration limit. This is helpful because it means that although there is some rainy days in Oahu, it is not significant for our purposes in investing in the business, it will for the most part of the time a warm and sunny weather.
 
-<img width="386" alt="tempvsprcp_jun" src="https://user-images.githubusercontent.com/104656920/187823253-4b85108a-1584-4144-867c-5e1c6e6c1c83.png">
+<img width="635" alt="Screen Shot 2022-09-01 at 19 56 37" src="https://user-images.githubusercontent.com/104656920/188036748-5cfb0da8-bc8b-4a63-9f63-ff614d414ef5.png">
 
-<img width="372" alt="tempvsprcp_dec" src="https://user-images.githubusercontent.com/104656920/187823270-cceff81c-02f3-4cdf-9b57-85bf5836b291.png">
+<img width="608" alt="Screen Shot 2022-09-01 at 19 56 45" src="https://user-images.githubusercontent.com/104656920/188036764-6c8d416f-ea7a-416e-9d9c-876b8fb23b9a.png">
+
+
 
 In this analysis where we are plotting temperature vs precipitation we could find that for June and December, where more precipitation was detected was between 65°F to 75°F.Considering this and our first analysis, this ranges of temperature are not the most common temperatures in Oahu, therefore we got another reason to think that this business is a good investment.
 
