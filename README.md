@@ -8,6 +8,15 @@ With data gathered from different stations in Oahu was possible to bring up some
 
 ## Results
 
+The key differences between the weather in Oahu during June and December, taking the temperatures as reference are:
+
+* The minimum  temperature for June is 64°F while in December the temperature drops almost 10°F to 56°F.
+
+* The max temperature between both months are not as separate as the lower value. In fact only 2°F of difference between these months. June 85°F and December 83°F. Making both months having a similar warm feeling.
+
+* Finally, considering that we almost have the same data points for both months, comparing the mean of both months, we can see that are between 70°F to 75°F. This range of temperature in the different months let us know that Oahu has a steady warm weather throughout the year.
+
+
 ### Summary
 
 After reviewing the temperature data for Oahu, it was brought to our attention that also rain plays an important factor to our customer in his decision to buy or not in our future business, because of this it was assessed how does the precipitations affect our location in the month of June and December. One of the considerations used is that a precipitation lower than 0.15" might be considered negligble. Below are two Data Frames that show the statistics of precipitation for both months.
@@ -25,3 +34,7 @@ It is necessary to highlight that then 75% of the month days have lower than our
 <img width="372" alt="tempvsprcp_dec" src="https://user-images.githubusercontent.com/104656920/187823270-cceff81c-02f3-4cdf-9b57-85bf5836b291.png">
 
 In this analysis where we are plotting temperature vs precipitation we could find that for June and December, where more precipitation was detected was between 65°F to 75°F.Considering this and our first analysis, this ranges of temperature are not the most common temperatures in Oahu, therefore we got another reason to think that this business is a good investment.
+
+The surf_up analysis gave us the information on how to invest in the business of Surf and Ice creams. With the data collected we are sure that the weather in the island is sufficiently steady in order to invest in this kind of business, without worring to much in having too much rain or not having sun during the year to exploit our ice cream sales.
+
+
